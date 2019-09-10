@@ -4,8 +4,6 @@ This repo provides a configured vagrant vm that comes configured with accessibil
 
 This vagrant machine is for local laptop usage only.  All of the details below cover how to build a base image for publishing.
 
-TL;DR - if you just want to do some accessibility testing, look here: https://app.vagrantup.com/stevewalton/boxes/win10-accessibility
-
 ## Pre-requesits:
 
 - Vagrant
@@ -34,9 +32,6 @@ And checked:
 
 `vagrant rdp`
 
-## Some notes
-
-Running the vagrant file up will give a blank Windows 10 machines with nothing on it, it will need configuring.
 
 ## Publishing
 
