@@ -12,7 +12,7 @@ This vagrant machine is for local laptop usage only.  All of the details below c
 
 ## Installing pre-requesits (macOS):
 
-`brew install vagrant`
+`brew cask install vagrant`
 
 `brew install virtualbox`
 
@@ -32,6 +32,7 @@ And checked:
 
 `vagrant rdp`
 
+Note: macOS seems to need to run `vagrant rdp` twice to get the Microsoft client to connect.
 
 ## Publishing
 
